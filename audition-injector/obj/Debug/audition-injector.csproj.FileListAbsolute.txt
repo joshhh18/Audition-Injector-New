@@ -1,0 +1,10 @@
+C:\Users\Joshhh\source\repos\audition-injector\audition-injector\bin\Debug\audition-injector.exe.config
+C:\Users\Joshhh\source\repos\audition-injector\audition-injector\bin\Debug\audition-injector.exe
+C:\Users\Joshhh\source\repos\audition-injector\audition-injector\bin\Debug\audition-injector.pdb
+C:\Users\Joshhh\source\repos\audition-injector\audition-injector\obj\Debug\audition-injector.csproj.AssemblyReference.cache
+C:\Users\Joshhh\source\repos\audition-injector\audition-injector\obj\Debug\audition_injector.Form1.resources
+C:\Users\Joshhh\source\repos\audition-injector\audition-injector\obj\Debug\audition_injector.Properties.Resources.resources
+C:\Users\Joshhh\source\repos\audition-injector\audition-injector\obj\Debug\audition-injector.csproj.GenerateResource.cache
+C:\Users\Joshhh\source\repos\audition-injector\audition-injector\obj\Debug\audition-injector.csproj.CoreCompileInputs.cache
+C:\Users\Joshhh\source\repos\audition-injector\audition-injector\obj\Debug\audition-injector.exe
+C:\Users\Joshhh\source\repos\audition-injector\audition-injector\obj\Debug\audition-injector.pdb
